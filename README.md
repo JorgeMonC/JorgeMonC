@@ -12,7 +12,7 @@ Habilidades y comprensión de los principios de control de calidad en el desarro
 **Multimedia:** 3dmax Photoshop Unity Adobe premier Illustrator C# HTML CSS 
 
 # Proyectos
-* [Pruebas aplicativo web Urban Routes Bootcamp QA](https://docs.google.com/spreadsheets/d/1JM5bQ3ZmB06gMUrjKACmCgDQ2NlkZHOH/edit?gid=374552301#gid=374552301)
+* [Pruebas aplicativo web Urban Routes Bootcamp QA](https://docs.google.com/spreadsheets/d/1JM5bQ3ZmB06gMUrjKACmCgDQ2NlkZHOH/edit?gid=374552301#gid=374552301){:target="_blank"}
 * [Pruebas API Urban Grocers Bootcamp QA](https://docs.google.com/spreadsheets/d/1c1JP_Eg2vmufv8wEBQBMnjlzjybuSvi_/edit?gid=2076036778#gid=2076036778)
 * [Pruebas aplicativo movil Urban Launch, Bootcamp QA](https://docs.google.com/spreadsheets/d/1JM5bQ3ZmB06gMUrjKACmCgDQ2NlkZHOH/edit?gid=374552301#gid=374552301)
 * [Pruebas Automatizadas aplicatico Urban Routes Bootcamp QA](https://github.com/JorgeMonC/qa-project-Urban-Routes-es)  
